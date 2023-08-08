@@ -1,0 +1,2 @@
+# LIC CTF
+ Write up
