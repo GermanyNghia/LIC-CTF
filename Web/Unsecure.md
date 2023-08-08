@@ -3,7 +3,7 @@
 
 Mở trang web thì mình tới được trang login
 
-![image](https://github.com/GermanyNghia/LIC-CTF/assets/111063228/da49f3b8-f640-45e9-a6d1-95c43738e9b2)
+![image](https://github.com/GermanyNghia/LIC-CTF/assets/111063228/6754f48e-0071-45f5-bcca-2dd4f7095b07)
 
 Thường mọi người sẽ mặc định username là admin và kết hợp với password password123 (đề bài)
 Login
